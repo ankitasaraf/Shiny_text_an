@@ -15,7 +15,7 @@ Group Members:
 
 # setup code block
 
-source('https://raw.githubusercontent.com/ankitasaraf/Text-Analytics/master/UDPipe/Functions/dependencies.R')
+source('https://raw.githubusercontent.com/ankitasaraf/Shiny_text_an/master/dependencies.r')
 ```
 
 
